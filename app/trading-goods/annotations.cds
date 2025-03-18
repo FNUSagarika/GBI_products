@@ -1,0 +1,1 @@
+using myNamespaceSrv as service from '../../srv/service';
